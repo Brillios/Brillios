@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer | Software Engineer**  
 🔭 Maker of robust things, breaker of the occasional dev environment
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasilis-gavresis/)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/gavresis)
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:basilisgav@gmail.com)
 
