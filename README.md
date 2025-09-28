@@ -52,7 +52,7 @@
 
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/gavresis)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vasilis-gavresis/)  
 - 📫 [Email Me](mailto:basilisgav@gmail.com)  
 
 
